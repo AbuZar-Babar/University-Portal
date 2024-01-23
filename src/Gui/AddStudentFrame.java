@@ -237,7 +237,7 @@ public final class AddStudentFrame extends JFrame implements ActionListener{
            
             this.dispose();
             new AdminFrame(1);
-            System.out.println();
+            
   
         }
             
