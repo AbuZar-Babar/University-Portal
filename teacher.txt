@@ -1,0 +1,15 @@
+
+==========================================
+Name    :Jazib E nazar
+ID      :4
+Dep     :CS
+Age     :19
+Des     :Associate Professor
+Exp     :10+
+==========================================
+Name    :Javed
+ID      :2
+Dep     :CS
+Age     :3
+Des     :Assistant Professor
+Exp     :1

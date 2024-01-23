@@ -1,0 +1,169 @@
+
+==========================================
+Name    :Abuzar Babar
+Pass    :1q2w3e
+Roll    :133
+Age     :4
+Dep     :BBA
+GPA     :3.66
+==========================================
+Name    :Mohib Sherwani
+Pass    :1q2w3e
+Roll    :125
+Age     :33
+Dep     :BBA
+GPA     :4.0
+==========================================
+Name    :Akif babar
+Pass    :1q2w3e
+Roll    :2
+Age     :5
+Dep     :CS
+GPA     :5.0
+==========================================
+Name    :Ali
+Pass    :1q2w3e
+Roll    :12
+Age     :6
+Dep     :CS
+GPA     :4.0
+==========================================
+Name    :saed
+Pass    :dsa
+Roll    :321
+Age     :0
+Dep     :CS
+GPA     :0.0
+==========================================
+Name    :sad
+Pass    :sad
+Roll    :333
+Age     :0
+Dep     :CS
+GPA     :0.0
+==========================================
+Name    :Muhammad Adeel
+Pass    :1234
+Roll    :130
+Age     :20
+Dep     :SE
+GPA     :0.0
+==========================================
+Name    :Hamza Husain
+Pass    :1234
+Roll    :160
+Age     :20
+Dep     :SE
+GPA     :0.0
+==========================================
+Name    :Asad Wazeer
+Pass    :1234
+Roll    :139
+Age     :20
+Dep     :SE
+GPA     :0.0
+==========================================
+Name    :Abdullah Umar
+Pass    :1234
+Roll    :126
+Age     :20
+Dep     :SE
+GPA     :0.0
+==========================================
+Name    :Asjad Jadoon
+Pass    :1234
+Roll    :134
+Age     :20
+Dep     :SE
+GPA     :0.0
+==========================================
+Name    :Ghani Abdulrehman
+Pass    :1234
+Roll    :153
+Age     :20
+Dep     :SE
+GPA     :0.0
+==========================================
+Name    :Ali Usman
+Pass    :1234
+Roll    :132
+Age     :20
+Dep     :SE
+GPA     :0.0
+==========================================
+Name    :Zeeshan
+Pass    :1234
+Roll    :120
+Age     :20
+Dep     :SE
+GPA     :0.0
+==========================================
+Name    :Zainab
+Pass    :1234
+Roll    :110
+Age     :20
+Dep     :SE
+GPA     :0.0
+==========================================
+Name    :Mahnoor Sajjad
+Pass    :1234
+Roll    :136
+Age     :20
+Dep     :SE
+GPA     :0.0
+==========================================
+Name    :Mahnoor Kalsoom
+Pass    :1234
+Roll    :143
+Age     :20
+Dep     :SE
+GPA     :0.0
+==========================================
+Name    :Warda
+Pass    :1234
+Roll    :141
+Age     :20
+Dep     :SE
+GPA     :0.0
+==========================================
+Name    :Sawaira
+Pass    :1234
+Roll    :150
+Age     :20
+Dep     :SE
+GPA     :0.0
+==========================================
+Name    :Shah alam
+Pass    :1234
+Roll    :44
+Age     :0
+Dep     :CS
+GPA     :0.0
+==========================================
+Name    :Mukaram
+Pass    :1234
+Roll    :30
+Age     :0
+Dep     :CS
+GPA     :0.0
+==========================================
+Name    :Amir Shezad
+Pass    :1234
+Roll    :14
+Age     :0
+Dep     :CS
+GPA     :0.0
+==========================================
+Name    :Jawad Ahmed
+Pass    :1234
+Roll    :36
+Age     :0
+Dep     :CS
+GPA     :0.0
+==========================================
+Name    :1
+Pass    :1
+Roll    :1
+Age     :0
+Dep     :CS
+GPA     :3.0
